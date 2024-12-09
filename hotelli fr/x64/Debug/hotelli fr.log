@@ -1,0 +1,4 @@
+﻿  oikeahotsa.cpp
+C:\Users\OMISTAJA\source\repos\hotelli fr\hotelli fr\oikeahotsa.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\OMISTAJA\source\repos\hotelli fr\hotelli fr\oikeahotsa.cpp(133,1): warning C4715: 'kysyÖidenMäärä': not all control paths return a value
+  hotelli fr.vcxproj -> C:\Users\OMISTAJA\source\repos\hotelli fr\x64\Debug\hotelli fr.exe
